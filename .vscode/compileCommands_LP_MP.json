@@ -1,0 +1,74 @@
+[
+	{
+		"file": "D:\\Unreal Projects\\S_PracticeProjects\\LP_MP-master\\Source\\LP_MP\\LP_MP.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\S_PracticeProjects\\LP_MP-master\\.vscode\\compileCommands_LP_MP\\LP_MP.1.rsp"
+		],
+		"directory": "E:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\S_PracticeProjects\\LP_MP-master\\Source\\LP_MP\\LP_MP.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\S_PracticeProjects\\LP_MP-master\\.vscode\\compileCommands_LP_MP\\LP_MP.1.rsp"
+		],
+		"directory": "E:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\S_PracticeProjects\\LP_MP-master\\Source\\LP_MP\\LP_MP.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\S_PracticeProjects\\LP_MP-master\\.vscode\\compileCommands_LP_MP\\LP_MP.1.rsp"
+		],
+		"directory": "E:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\S_PracticeProjects\\LP_MP-master\\Source\\LP_MP\\LP_MPCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\S_PracticeProjects\\LP_MP-master\\.vscode\\compileCommands_LP_MP\\LP_MP.1.rsp"
+		],
+		"directory": "E:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\S_PracticeProjects\\LP_MP-master\\Source\\LP_MP\\LP_MPCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\S_PracticeProjects\\LP_MP-master\\.vscode\\compileCommands_LP_MP\\LP_MP.1.rsp"
+		],
+		"directory": "E:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\S_PracticeProjects\\LP_MP-master\\Source\\LP_MP\\LP_MPGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\S_PracticeProjects\\LP_MP-master\\.vscode\\compileCommands_LP_MP\\LP_MP.1.rsp"
+		],
+		"directory": "E:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\S_PracticeProjects\\LP_MP-master\\Source\\LP_MP\\LP_MPGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\S_PracticeProjects\\LP_MP-master\\.vscode\\compileCommands_LP_MP\\LP_MP.1.rsp"
+		],
+		"directory": "E:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\S_PracticeProjects\\LP_MP-master\\Source\\LP_MP\\Projectile.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\S_PracticeProjects\\LP_MP-master\\.vscode\\compileCommands_LP_MP\\LP_MP.1.rsp"
+		],
+		"directory": "E:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\S_PracticeProjects\\LP_MP-master\\Source\\LP_MP\\Projectile.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\S_PracticeProjects\\LP_MP-master\\.vscode\\compileCommands_LP_MP\\LP_MP.1.rsp"
+		],
+		"directory": "E:\\UE_5.3\\Engine\\Source"
+	}
+]
